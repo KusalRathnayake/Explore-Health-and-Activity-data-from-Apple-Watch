@@ -7,3 +7,10 @@
 2. Explore the distribution of Average Heart Rate, Active Energy Burned, Step Count and Walking Speed over days of month and days of week.
 3. Use several data visualization techniques using matplotlib and seaborn
 4. Use libraries: Pandas, datetime, xml, matplotlib and seaborn
+
+#### To download xml files of health and workout data, you should follow the steps below
+1. Go to health app in iphone
+2. Click on your profile image in the top right corner
+3. Go to the bottom of the page and select, "Export All Health Data"
+4. Airdrop or email the zip file into your laptop
+5. unzip the file to see "export.xml" file
